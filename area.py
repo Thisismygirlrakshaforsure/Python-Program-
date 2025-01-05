@@ -20,4 +20,4 @@ for i in range(num_rooms):
 # Display total area
 print(f"\nTotal Floor Area: {total_area:.2f} square meters")
 
-#CopiedbyChatGPT...Hence4hastagsusedherewithdifferentoperationsloveforpython
+#CopiedbyChatGPT...Hence4hastagsusedherewithdifferentoperations<3forpython
